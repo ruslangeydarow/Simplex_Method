@@ -1,0 +1,9 @@
+E:\New Projects\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.exe.config
+E:\New Projects\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.exe
+E:\New Projects\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.pdb
+E:\New Projects\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.Form1.resources
+E:\New Projects\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.Properties.Resources.resources
+E:\New Projects\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csproj.GenerateResource.Cache
+E:\New Projects\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.exe
+E:\New Projects\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.pdb
+E:\New Projects\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csprojResolveAssemblyReference.cache
